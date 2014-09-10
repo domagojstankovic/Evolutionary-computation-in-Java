@@ -1,0 +1,2 @@
+Postoji razlika, 2. slučaj puno bolje generira rješenja, pogotovo uz što veću k-turnirsku selekciju (najbolje za k=5).
+Za mutaciju sam odabrao način da odredim vjerojatnost mutacije bita, a za križanje križanje s jednom točkom prekida.

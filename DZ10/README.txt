@@ -1,0 +1,1 @@
+arg[3] - sigma za normalnu mutaciju

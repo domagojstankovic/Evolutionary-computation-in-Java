@@ -1,0 +1,13 @@
+package hr.fer.zemris.optjava.dz9.function;
+
+public class F2 implements IFunction {
+
+	public F2() {
+	}
+	
+	@Override
+	public double valueAt(double[] variables) {
+		return (1 + variables[1]) / variables[0];
+	}
+
+}
